@@ -1,0 +1,21 @@
+equipment_name,equipment_category,equipment_cost_per_hr
+"Jackhammer","HAND_TOOL",30.00
+"Bulldozer","HEAVY_MACHINERY",150.00
+"Truck","VEHICLE",50.00
+"Concrete Mixer","HEAVY_MACHINERY",100.00
+"Steamroller","HEAVY_MACHINERY",120.00
+"Excavator","HEAVY_MACHINERY",140.00
+"Chainsaw","HAND_TOOL",25.00
+"Drill","HAND_TOOL",20.00
+"Skid Steer Loader","VEHICLE",80.00
+"Dump Truck","VEHICLE",90.00
+"Backhoe","HEAVY_MACHINERY",130.00
+"Asphalt Cutter","HAND_TOOL",35.00
+"Paver","HEAVY_MACHINERY",160.00
+"Hydraulic Hammer","HAND_TOOL",40.00
+"Cranes","VEHICLE",200.00
+"Forklift","VEHICLE",110.00
+"Compactor","HAND_TOOL",50.00
+"Track Loader","HEAVY_MACHINERY",175.00
+"Wheel Loader","VEHICLE",95.00
+"Trencher","HEAVY_MACHINERY",145.00
